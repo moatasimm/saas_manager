@@ -1,8 +1,8 @@
 app_name        = "saas_manager"
 app_title       = "SaaS Manager"
-app_publisher   = "Your Company"
+app_publisher   = "OpenTech"
 app_description = "ERPNext SaaS Subscription Management Platform"
-app_email       = "admin@yourcompany.com"
+app_email       = "moatasim_m@yahoo.com"
 app_license     = "MIT"
 app_version     = "1.0.0"
 
